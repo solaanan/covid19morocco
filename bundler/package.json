@@ -1,0 +1,15 @@
+{
+  "name": "bundler",
+  "version": "1.0.0",
+  "description": "turning node modules based codes into a normal script to be included in web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Souhaib LAANANI",
+  "license": "MIT",
+  "dependencies": {
+    "node-html-parser": "^1.2.16",
+    "request": "^2.88.2"
+  }
+}
